@@ -1,7 +1,7 @@
 # SQL -Alchemy SurfsUp
 ![image](https://user-images.githubusercontent.com/119978382/224205639-2b3ad71a-1bcb-4e2b-8204-ca4c00fca57f.png)
 
-Goal was to do climate analysis and data exploration to help with holiday vacation planning in Honolulu, Hawaii. Used SQLAlchemy and Python to explore and analyze the climate data. In addition, designed a climate app using Flask API. 
+Goal was to do data exploration and climate analysis to help with holiday vacation planning in Honolulu, Hawaii. Used SQLAlchemy and Python to explore and analyze the climate data. In addition, designed a climate app using Flask API. 
 
 # Climate Analysis and Exploration
 * 12 months of precipitation data
