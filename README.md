@@ -5,7 +5,7 @@ Goal was to do data exploration and climate analysis to help with holiday vacati
 
 # Climate Analysis and Exploration
 * 12 months of precipitation data
-<img width="780" alt="Screenshot 2023-03-09 at 7 44 09 PM" src="https://user-images.githubusercontent.com/119978382/224204800-97ad4e45-12e6-43b8-a6d9-003c3736a9b3.png">
+![image](https://user-images.githubusercontent.com/119978382/224207814-7bfbb4ac-6e11-413c-8417-f8b825fde328.png)
 
 * 12 months of temperature observation data as histogram
-<img width="656" alt="Screenshot 2023-03-09 at 7 53 39 PM" src="https://user-images.githubusercontent.com/119978382/224204887-8217671c-042d-4a84-9da1-53ca3bd54f4e.png">
+![image](https://user-images.githubusercontent.com/119978382/224207687-2f436fc7-795d-42b6-aa46-86622c53e4ef.png)
